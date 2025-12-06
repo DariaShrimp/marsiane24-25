@@ -1,0 +1,25 @@
+@import 'color.css';
+
+.dropdown-item {
+    color: white;
+}
+.dropdown-item:hover {
+    background-color: rgba(147, 23, 229, 0.3);
+    color: #ffffff;
+}
+.dropdown-item:focus {
+    outline: none;
+    background-color: #5e5672;
+    color: #ffffff;
+}
+.dropdown-menu {
+    background-color: #444348;
+}
+.my-nav {
+    background-color: var(--text-dark);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1050;
+}

@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block main_content %}
+<table style="width: 192px">
+{% for i in range(len) %}
+  <tr>
+  {% for j in range(len) %}
+    <td style="background-color: rgb({{255 - map[i][j]}}, 0, 0)">{{ map[i][j] }}</td>
+  {% endfor %}
+  </tr>
+{% endfor %}
+</table>
+{% endblock %}

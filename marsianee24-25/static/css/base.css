@@ -1,0 +1,14 @@
+.cen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+td {
+    width: 3px;
+    height: 3px;
+    /* border: 0.5px solid #ff0000; */
+    /* cursor: pointer; */
+    background-color: white;
+    color: #ffffff;
+    font-size: 2px;
+}

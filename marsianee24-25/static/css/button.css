@@ -1,0 +1,40 @@
+.btn-red {
+    background: rgb(165, 60, 60);
+    color: white;
+}
+.btn-red:hover {
+    background: rgb(165, 60, 60);
+    color: white;
+}
+.btn-green {
+    background: rgb(79, 143, 56);
+    color: white;
+}
+.btn-green:hover {
+    background: rgb(69, 136, 38);
+    color: white;
+}
+.btn-yellow {
+    background: var(--yellow-primary);
+    color: #000000;
+}
+.btn-yellow:hover {
+    background: var(--yellow-active);
+    color: #000000;
+}
+.btn-orange {
+    background: var(--orange-primary);
+    color: #000000;
+}
+.btn-orange:hover {
+    background: var(--orange-active);
+    color: #000000;
+}
+.btn-purple {
+    background: var(--purple-primary);
+    color: #ffffff;
+}
+.btn-purple:hover {
+    background: var(--purple-active);
+    color: #ffffff;
+}

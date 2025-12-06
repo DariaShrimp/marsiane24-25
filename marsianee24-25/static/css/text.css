@@ -1,0 +1,12 @@
+.w-text {
+    color: white;
+}
+.y-text {
+    color: var(--text-yellow);
+}
+.dim {
+    color: #bbbbbb;
+}
+.bright {
+    color: white;
+}

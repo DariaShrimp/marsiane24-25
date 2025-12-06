@@ -1,0 +1,13 @@
+@import 'color.css';
+
+body {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 70px;
+    background: rgb(3, 11, 40);
+    color: var(--text-light);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}

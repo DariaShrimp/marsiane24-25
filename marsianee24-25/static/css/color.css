@@ -1,0 +1,21 @@
+:root {
+    --station-32: #47ff00;
+    --coverage-32: #c9f6b3;
+    --station-64: #00daff;
+    --coverage-64: #b2efff;
+    --module: #d9007c;
+    --text-yellow: #fae6b2;
+    --yellow-primary: #ffc400;
+    --yellow-active: #e59917;
+    --orange-primary: #ff9123;
+    --orange-active: #f37516;
+    --orange-dark: #b77500;
+    --purple-primary: #8a2be2;
+    --purple-active: #7a1db6;
+    --card-bg: rgb(32, 32, 32);
+    --dark-bg: #1a1a1a;
+    --input-bg: #2d2d2d;
+    --text-light: #f5f5f5;
+    --text-dark: #2d2d2d;
+    --text-grey: #c4c4c4;
+}

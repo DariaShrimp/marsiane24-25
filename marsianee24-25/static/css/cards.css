@@ -1,0 +1,17 @@
+.card-body {
+    background: var(--card-bg);
+    border-radius: 0.7rem;
+}
+.card-body-active {
+    background: var(--card-bg);
+    border: 1px solid var(--purple-active);
+    border-radius: 0.7rem;
+}
+.tablo {
+    border: 1px solid #dddddd;
+    border-radius: 0.5rem;
+    background-color: var(--card-bg);
+    min-height: 1vh;
+    margin-top: 1rem;
+    padding: 15px;
+}
